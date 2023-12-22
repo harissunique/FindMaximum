@@ -59,8 +59,11 @@ def max_marks(list1):
 
 
 ## Output:
-![](./out1.png.png)
-![](./out2.png.png)
-![](./out3.png.png)
+Output-1
+![](./file1.png)
+Output-2
+![](./file2.png)
+Output-3
+![](./file3.png)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
